@@ -42,4 +42,4 @@ I am a Technology enthusiast with over 9+ years of IT industry experience <br> E
   <a href="https://www.linkedin.com/rashmi-desai" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKEDIN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
-</p>
+</p> 
