@@ -1,23 +1,22 @@
+# Rashmi Desai
 
+## Hi there 👋, Welcome to my Github page!
 
- <h1 align="center">Hi, I am Rashmi Desai from India!</h1>
-<h3 align="center"></h3>
-
-<p align="center">
-I am a Technology enthusiast with over 9+ years of IT industry experience <br> Experienced as a Data Team Lead, Data Analyst and Developer 
-<br> Certified Lean Six Sigma Green Belt from NIQC International and Data Analytics for Lean Six Sigma from University of Amsterdam
-<br> Extensive experience with analysis, design, development, testing, troubleshooting and maintenance of software application
-<br> Proficient in analyzing and translating business requirements to technical requirements
-<br> Domain expertise include Healthcare Insurance, Banking and Payments.
-<br> Experience in data ingestion, data filtering, data analysis, data modelling, data storage, data processing and data visualization
-<br> Proficiency in interacting with clients to ensure delivery of a seamless solution that meets the client requirements
-<br> Good understanding of software quality practices, processes and experience in working with team members from different cultures
+<br>
+I am a Technology enthusiast with over 9+ years of IT industry experience
+<br> ⚡  Experienced as a Data Team Lead, Data Analyst and Developer 
+<br> ⚡  Certified Lean Six Sigma Green Belt from NIQC International and Data Analytics for Lean Six Sigma from University of Amsterdam
+<br> ⚡  Extensive experience with analysis, design, development, testing, troubleshooting and maintenance of software application
+<br> ⚡  Proficient in analyzing and translating business requirements to technical requirements
+<br> ⚡  Domain expertise include Healthcare Insurance, Banking and Payments
+<br> ⚡  Experience in data ingestion, data filtering, data analysis, data modelling, data storage, data processing and data visualization
+<br> ⚡  Good understanding of software quality practices, processes and experience in working with team members from different cultures
 
  
-<h1 align="center">Technologies</h1>
+<h1 align="left">Technologies</h1>
 
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/static/v1?label=|&message=SAS&color=2b625f&style=plastic&logo=sas"/>
   <img src="https://img.shields.io/static/v1?label=|&message=Cobol&color=2b625f&style=plastic&logo=Cobol"/>
   <img src="https://img.shields.io/static/v1?label=|&message=PostgreSQL&color=4169E1&style=plastic&logo=PostgreSQL"/>
@@ -27,15 +26,16 @@ I am a Technology enthusiast with over 9+ years of IT industry experience <br> E
   <img src="https://img.shields.io/static/v1?label=|&message=Power BI&color=F2C811&style=plastic&logo=Power BI"/>
   <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
   <img src="https://img.shields.io/static/v1?label=|&message=GitHub&color=181717&style=plastic&logo=GitHub"/>
+  <img src="https://img.shields.io/static/v1?label=|&message=Visual Studio Code&color=007ACC&style=plastic&logo=Visual Studio Code"/>
 </p>
      
 
 
-<h1 align="center">Let's Connect!</h1>
+<h1 align="left">Let's Connect!</h1>
 
 
 
-<p align="center">
+<p align="left">
   <a href="https://technotalkswithrd.blogspot.com" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
