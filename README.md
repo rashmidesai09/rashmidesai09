@@ -3,8 +3,7 @@
 ## Hi there 👋, Welcome to my Github page!
 
 <br>
-I am a Technology enthusiast with over 9+ years of IT industry experience
-<br> ⚡  Experienced as a Data Team Lead, Data Analyst and Mainframe Developer 
+I am a Technology enthusiast with over 9+ years of IT industry experience in Mainframe application development, Modernization, Data Analytics and Engineering
 <br> ⚡  Certified Lean Six Sigma Green Belt from NIQC International and Data Analytics for Lean Six Sigma from University of Amsterdam
 <br> ⚡  Udacity Nanodegree graduate 
 <br> ⚡  Extensive experience with analysis, design, development, testing, troubleshooting and maintenance of software application
