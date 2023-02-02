@@ -27,7 +27,7 @@ I am a Technology enthusiast with over 9+ years of IT industry experience in Mai
   <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
   <img src="https://img.shields.io/static/v1?label=|&message=GitHub&color=181717&style=plastic&logo=GitHub"/>
   <img src="https://img.shields.io/static/v1?label=|&message=Visual Studio Code&color=007ACC&style=plastic&logo=Visual Studio Code"/>
-  <img src="https://img.shields.io/badge/Apache%20Spark-Pyspark%2CSpark--SQL-orange"/>
+  <img src="https://img.shields.io/badge/Apache%20Spark-PySpark%2CSpark--SQL-orange"/>
 </p>
      
 
